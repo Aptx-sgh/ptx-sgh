@@ -1,5 +1,5 @@
 
-![flow](https://img.shields.io/github/follơers/yourusername?style=for-the-badge)
+![FOLLOWERS](https://img.shields.io/github/followers/yourusername?style=for-the-badge)
 
   
 --------
