@@ -1,5 +1,5 @@
 
-![FOLLOWERS](https://img.shields.io/github/followers/yourusername?style=for-the-badge)
+![Loves](https://img.shields.io/github/Loves/yourusername?style=for-the-badge)
 
   
 --------
